@@ -1,0 +1,1618 @@
+янв. 30, 2024 12:09:25 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:09:25 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:09:25 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:09:50 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:09:50 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52123,localport=12345]
+янв. 30, 2024 12:10:11 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:10:11 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52135,localport=12345]
+янв. 30, 2024 12:10:14 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:10:32 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52135,localport=12345]
+янв. 30, 2024 12:10:34 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52123,localport=12345]
+янв. 30, 2024 12:35:54 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:35:54 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:35:54 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:36:06 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:36:06 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52904,localport=12345]
+янв. 30, 2024 12:36:12 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:36:12 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52911,localport=12345]
+янв. 30, 2024 12:36:31 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 12:36:40 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: pidor
+янв. 30, 2024 12:36:45 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: darova
+янв. 30, 2024 12:37:12 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 12:37:12 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52942,localport=12345]
+янв. 30, 2024 12:37:21 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: hi
+янв. 30, 2024 12:37:40 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 3
+янв. 30, 2024 12:46:26 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:46:26 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:46:26 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:46:52 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:46:52 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53260,localport=12345]
+янв. 30, 2024 12:47:05 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:47:05 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53273,localport=12345]
+янв. 30, 2024 12:47:12 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:47:29 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:47:47 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53260,localport=12345]
+янв. 30, 2024 12:47:49 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53273,localport=12345]
+янв. 30, 2024 12:55:18 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:55:18 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:55:18 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:55:40 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:55:40 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53553,localport=12345]
+янв. 30, 2024 12:56:00 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:56:00 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53571,localport=12345]
+янв. 30, 2024 12:56:11 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 1:02:41 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 1:02:41 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 1:02:41 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 1:03:02 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 1:03:02 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53949,localport=12345]
+янв. 30, 2024 1:03:19 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 1:03:19 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53964,localport=12345]
+янв. 30, 2024 1:03:26 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 1:03:54 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: pidor
+янв. 30, 2024 1:04:11 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53949,localport=12345]
+янв. 30, 2024 1:04:12 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53964,localport=12345]
+янв. 30, 2024 1:11:12 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 1:11:12 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 1:11:12 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 1:11:33 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 1:11:33 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54248,localport=12345]
+янв. 30, 2024 1:11:49 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 1:11:49 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54258,localport=12345]
+янв. 30, 2024 1:11:53 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 1:12:19 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54248,localport=12345]
+янв. 30, 2024 1:12:20 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54258,localport=12345]
+янв. 30, 2024 1:17:36 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 1:17:36 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 1:17:36 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 1:18:01 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 1:18:01 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54459,localport=12345]
+янв. 30, 2024 1:18:15 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 1:18:15 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54470,localport=12345]
+янв. 30, 2024 1:18:22 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 1:18:34 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54470,localport=12345]
+янв. 30, 2024 1:18:35 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54459,localport=12345]
+янв. 30, 2024 1:47:11 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 1:47:11 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 1:47:11 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 1:47:35 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 1:47:35 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55510,localport=12345]
+янв. 30, 2024 1:47:57 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 1:47:57 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55525,localport=12345]
+янв. 30, 2024 1:48:04 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 1:58:47 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 1:58:47 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 1:58:47 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 1:59:11 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 1:59:11 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55866,localport=12345]
+янв. 30, 2024 1:59:31 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 1:59:31 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55878,localport=12345]
+янв. 30, 2024 1:59:42 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 1:59:54 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55866,localport=12345]
+янв. 30, 2024 2:01:18 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55878,localport=12345]
+янв. 30, 2024 2:01:46 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:01:47 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:01:47 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:02:10 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:02:10 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55969,localport=12345]
+янв. 30, 2024 2:02:28 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:02:28 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55980,localport=12345]
+янв. 30, 2024 2:02:32 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 2:02:51 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55980,localport=12345]
+янв. 30, 2024 2:02:54 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55969,localport=12345]
+янв. 30, 2024 2:12:58 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:12:58 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:12:58 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:13:18 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:13:18 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52736,localport=12345]
+янв. 30, 2024 2:13:59 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:13:59 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52756,localport=12345]
+янв. 30, 2024 2:14:12 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 2:14:54 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52756,localport=12345]
+янв. 30, 2024 2:14:55 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52736,localport=12345]
+янв. 30, 2024 2:24:36 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:24:36 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:24:36 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:24:58 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:24:58 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53089,localport=12345]
+янв. 30, 2024 2:25:14 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:25:14 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53100,localport=12345]
+янв. 30, 2024 2:25:24 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 2:25:47 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53089,localport=12345]
+янв. 30, 2024 2:25:49 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53100,localport=12345]
+янв. 30, 2024 2:38:46 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:38:46 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:38:46 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:39:54 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:39:54 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53550,localport=12345]
+янв. 30, 2024 2:40:15 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:40:15 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53563,localport=12345]
+янв. 30, 2024 2:40:30 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: pidoras
+янв. 30, 2024 2:40:39 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: gandon
+янв. 30, 2024 2:40:59 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 3:04:44 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:04:44 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:04:44 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:05:09 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:05:09 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54276,localport=12345]
+янв. 30, 2024 3:05:28 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:05:28 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54288,localport=12345]
+янв. 30, 2024 3:05:42 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:06:16 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:06:29 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:06:40 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 3:15:09 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:15:09 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:15:09 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:15:36 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:15:36 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54602,localport=12345]
+янв. 30, 2024 3:16:05 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:16:05 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54618,localport=12345]
+янв. 30, 2024 3:16:21 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:26:22 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:26:22 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:26:22 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:26:53 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:26:53 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54962,localport=12345]
+янв. 30, 2024 3:27:15 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:27:15 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54974,localport=12345]
+янв. 30, 2024 3:27:25 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:27:48 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 3:28:02 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54974,localport=12345]
+янв. 30, 2024 3:28:06 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54962,localport=12345]
+янв. 30, 2024 3:45:29 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:45:29 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:45:29 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:45:55 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:45:55 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55570,localport=12345]
+янв. 30, 2024 3:46:05 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:46:05 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55579,localport=12345]
+янв. 30, 2024 3:46:15 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:46:29 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55579,localport=12345]
+янв. 30, 2024 3:46:31 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55570,localport=12345]
+янв. 30, 2024 3:50:18 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:50:18 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:50:18 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:50:40 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:50:40 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55731,localport=12345]
+янв. 30, 2024 3:51:00 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:51:00 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55746,localport=12345]
+янв. 30, 2024 3:51:29 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 3:59:15 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 3:59:15 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 3:59:15 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 3:59:40 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 3:59:40 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56044,localport=12345]
+янв. 30, 2024 3:59:57 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 3:59:57 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56057,localport=12345]
+янв. 30, 2024 4:00:00 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:00:08 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56044,localport=12345]
+янв. 30, 2024 4:00:09 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56057,localport=12345]
+янв. 30, 2024 4:20:14 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:20:14 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:20:14 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:20:35 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:20:35 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56646,localport=12345]
+янв. 30, 2024 4:20:40 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56646,localport=12345]
+янв. 30, 2024 4:21:55 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:21:55 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:21:55 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:22:15 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:22:15 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56698,localport=12345]
+янв. 30, 2024 4:22:44 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 4:22:44 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56713,localport=12345]
+янв. 30, 2024 4:22:49 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:23:07 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56713,localport=12345]
+янв. 30, 2024 4:23:08 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56698,localport=12345]
+янв. 30, 2024 4:24:55 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:24:55 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:24:55 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:25:14 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:25:14 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56790,localport=12345]
+янв. 30, 2024 4:25:29 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 4:25:29 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56802,localport=12345]
+янв. 30, 2024 4:25:36 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:26:01 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 4:26:08 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56802,localport=12345]
+янв. 30, 2024 4:26:12 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56790,localport=12345]
+янв. 30, 2024 4:32:32 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:32:32 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:32:32 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:33:04 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:33:04 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57061,localport=12345]
+янв. 30, 2024 4:33:19 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 4:33:19 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57077,localport=12345]
+янв. 30, 2024 4:33:35 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:38:11 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:38:11 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:38:11 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:38:32 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:38:32 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57229,localport=12345]
+янв. 30, 2024 4:38:48 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 4:38:48 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57240,localport=12345]
+янв. 30, 2024 4:38:55 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:56:25 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 4:56:25 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 4:56:25 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 4:56:50 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 4:56:50 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57723,localport=12345]
+янв. 30, 2024 4:57:12 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 4:57:12 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=57738,localport=12345]
+янв. 30, 2024 4:57:18 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 4:57:33 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=57723,localport=12345]
+янв. 30, 2024 4:57:34 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=57738,localport=12345]
+янв. 30, 2024 5:25:42 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:25:42 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:25:42 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:26:11 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:26:11 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58597,localport=12345]
+янв. 30, 2024 5:26:22 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:26:22 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58605,localport=12345]
+янв. 30, 2024 5:26:26 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:33:46 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:33:46 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:33:46 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:34:13 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:34:13 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58842,localport=12345]
+янв. 30, 2024 5:34:32 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:34:32 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58855,localport=12345]
+янв. 30, 2024 5:34:38 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:34:49 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=58855,localport=12345]
+янв. 30, 2024 5:34:51 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=58842,localport=12345]
+янв. 30, 2024 5:36:01 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:36:01 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:36:01 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:36:21 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:36:21 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58909,localport=12345]
+янв. 30, 2024 5:36:58 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:36:58 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=58929,localport=12345]
+янв. 30, 2024 5:37:03 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:37:15 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=58929,localport=12345]
+янв. 30, 2024 5:37:16 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=58909,localport=12345]
+янв. 30, 2024 5:38:55 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:38:55 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:38:55 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:39:22 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:39:22 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59012,localport=12345]
+янв. 30, 2024 5:39:31 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:39:31 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59020,localport=12345]
+янв. 30, 2024 5:39:34 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:39:53 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:40:02 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 5:40:11 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59020,localport=12345]
+янв. 30, 2024 5:40:13 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59012,localport=12345]
+янв. 30, 2024 5:47:19 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:47:19 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:47:19 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:47:45 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:47:45 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59259,localport=12345]
+янв. 30, 2024 5:47:59 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:47:59 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59273,localport=12345]
+янв. 30, 2024 5:48:04 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:48:47 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59259,localport=12345]
+янв. 30, 2024 5:48:49 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59273,localport=12345]
+янв. 30, 2024 5:54:05 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 5:54:06 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 5:54:06 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 5:54:24 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 5:54:24 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59486,localport=12345]
+янв. 30, 2024 5:54:40 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 5:54:40 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59500,localport=12345]
+янв. 30, 2024 5:54:55 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 5:55:14 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59500,localport=12345]
+янв. 30, 2024 5:55:31 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59486,localport=12345]
+янв. 30, 2024 5:55:43 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 5:55:43 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59529,localport=12345]
+янв. 30, 2024 5:55:56 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 4
+янв. 30, 2024 5:55:56 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59539,localport=12345]
+янв. 30, 2024 5:56:02 AM Server.GameImplementation pair_players
+INFO: Pairing players: 3 and 4
+янв. 30, 2024 5:56:20 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59529,localport=12345]
+янв. 30, 2024 5:56:21 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59539,localport=12345]
+янв. 30, 2024 6:07:56 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:07:56 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:07:56 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:08:27 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:08:27 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59977,localport=12345]
+янв. 30, 2024 6:08:35 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:08:35 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59984,localport=12345]
+янв. 30, 2024 6:08:41 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:08:56 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59977,localport=12345]
+янв. 30, 2024 6:08:59 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59984,localport=12345]
+янв. 30, 2024 6:12:42 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:12:42 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:12:42 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:13:04 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:13:04 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60113,localport=12345]
+янв. 30, 2024 6:13:17 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:13:17 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60123,localport=12345]
+янв. 30, 2024 6:13:23 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:13:32 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60123,localport=12345]
+янв. 30, 2024 6:13:32 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60113,localport=12345]
+янв. 30, 2024 6:18:19 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:18:19 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:18:19 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:18:46 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:18:46 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60279,localport=12345]
+янв. 30, 2024 6:18:55 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:18:55 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60287,localport=12345]
+янв. 30, 2024 6:19:02 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:19:18 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60287,localport=12345]
+янв. 30, 2024 6:19:20 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60279,localport=12345]
+янв. 30, 2024 6:31:38 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:31:38 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:31:38 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:32:05 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:32:05 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60680,localport=12345]
+янв. 30, 2024 6:32:13 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:32:13 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60691,localport=12345]
+янв. 30, 2024 6:32:18 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:36:19 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:36:19 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:36:19 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:36:37 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:36:37 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60819,localport=12345]
+янв. 30, 2024 6:36:56 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:36:56 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=60832,localport=12345]
+янв. 30, 2024 6:37:00 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:37:15 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60819,localport=12345]
+янв. 30, 2024 6:37:16 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=60832,localport=12345]
+янв. 30, 2024 6:46:07 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:46:07 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:46:07 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:46:30 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:46:30 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61128,localport=12345]
+янв. 30, 2024 6:46:47 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:46:47 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61148,localport=12345]
+янв. 30, 2024 6:46:50 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:46:58 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61128,localport=12345]
+янв. 30, 2024 6:46:59 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61148,localport=12345]
+янв. 30, 2024 6:53:12 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:53:12 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:53:12 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:53:31 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:53:31 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61368,localport=12345]
+янв. 30, 2024 6:53:45 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:53:45 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61379,localport=12345]
+янв. 30, 2024 6:53:49 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:53:58 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61368,localport=12345]
+янв. 30, 2024 6:53:59 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61379,localport=12345]
+янв. 30, 2024 6:57:49 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 6:57:49 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 6:57:49 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 6:58:17 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 6:58:17 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61524,localport=12345]
+янв. 30, 2024 6:58:26 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 6:58:26 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=61531,localport=12345]
+янв. 30, 2024 6:58:30 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 6:58:34 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61524,localport=12345]
+янв. 30, 2024 6:58:35 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=61531,localport=12345]
+янв. 30, 2024 7:14:14 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 7:14:14 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 7:14:14 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 7:14:35 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 7:14:35 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62040,localport=12345]
+янв. 30, 2024 7:14:49 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 7:14:49 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62054,localport=12345]
+янв. 30, 2024 7:14:56 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 7:15:04 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62040,localport=12345]
+янв. 30, 2024 7:15:06 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62054,localport=12345]
+янв. 30, 2024 7:15:20 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 7:15:20 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62071,localport=12345]
+янв. 30, 2024 7:15:29 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 4
+янв. 30, 2024 7:15:29 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62079,localport=12345]
+янв. 30, 2024 7:15:33 AM Server.GameImplementation pair_players
+INFO: Pairing players: 3 and 4
+янв. 30, 2024 7:15:41 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62079,localport=12345]
+янв. 30, 2024 7:15:42 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62071,localport=12345]
+янв. 30, 2024 7:26:02 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 7:26:02 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 7:26:02 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 7:26:24 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 7:26:24 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62446,localport=12345]
+янв. 30, 2024 7:26:43 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 7:26:43 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=62457,localport=12345]
+янв. 30, 2024 7:26:50 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 7:27:00 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62457,localport=12345]
+янв. 30, 2024 7:27:02 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=62446,localport=12345]
+янв. 30, 2024 7:46:03 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 7:46:03 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 7:46:03 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 7:46:30 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 7:46:30 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=63083,localport=12345]
+янв. 30, 2024 7:46:47 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 7:46:47 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=63105,localport=12345]
+янв. 30, 2024 7:46:54 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 7:47:03 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=63105,localport=12345]
+янв. 30, 2024 7:47:04 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=63083,localport=12345]
+янв. 30, 2024 8:35:14 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 8:35:14 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 8:35:14 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 8:35:37 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 8:35:37 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=64609,localport=12345]
+янв. 30, 2024 8:36:00 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 8:36:00 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=64622,localport=12345]
+янв. 30, 2024 8:36:07 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 8:36:11 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session ed8a5cbc-5d39-42eb-a186-66398a8351e4
+янв. 30, 2024 8:36:27 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session ed8a5cbc-5d39-42eb-a186-66398a8351e4
+янв. 30, 2024 8:36:33 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session ed8a5cbc-5d39-42eb-a186-66398a8351e4
+янв. 30, 2024 8:36:37 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=64609,localport=12345]
+янв. 30, 2024 8:36:39 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=64622,localport=12345]
+янв. 30, 2024 8:48:23 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 8:48:23 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 8:48:23 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 8:48:45 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 8:48:45 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=65054,localport=12345]
+янв. 30, 2024 8:49:01 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 8:49:01 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=65064,localport=12345]
+янв. 30, 2024 8:49:11 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 8:49:13 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:22 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:23 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:29 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:32 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:33 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:36 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:42 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:49:53 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 4d2ec187-abb1-477b-a27f-583942cf3a0a
+янв. 30, 2024 8:50:22 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: priver
+янв. 30, 2024 8:50:24 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=65054,localport=12345]
+янв. 30, 2024 8:50:26 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=65064,localport=12345]
+янв. 30, 2024 9:00:23 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 9:00:23 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 9:00:23 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 9:00:45 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 9:00:45 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=65433,localport=12345]
+янв. 30, 2024 9:00:58 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 9:00:58 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=65444,localport=12345]
+янв. 30, 2024 9:01:12 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 9:01:13 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:19 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:30 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:47 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:50 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:54 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:55 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:01:58 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:02:03 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a73d05e1-63f6-4217-bc57-8e5ca2db5b80
+янв. 30, 2024 9:05:02 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=65444,localport=12345]
+янв. 30, 2024 9:05:04 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=65433,localport=12345]
+янв. 30, 2024 9:37:32 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 9:37:32 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 9:37:32 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 9:37:54 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 9:37:54 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=50463,localport=12345]
+янв. 30, 2024 9:38:11 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 9:38:11 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=50481,localport=12345]
+янв. 30, 2024 9:38:18 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 9:38:19 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 617c20b9-3689-4f8c-af51-84aeb2be4355
+янв. 30, 2024 10:00:47 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 617c20b9-3689-4f8c-af51-84aeb2be4355
+янв. 30, 2024 10:00:49 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 617c20b9-3689-4f8c-af51-84aeb2be4355
+янв. 30, 2024 10:01:02 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 617c20b9-3689-4f8c-af51-84aeb2be4355
+янв. 30, 2024 10:01:04 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 617c20b9-3689-4f8c-af51-84aeb2be4355
+янв. 30, 2024 10:01:08 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=50463,localport=12345]
+янв. 30, 2024 10:01:12 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=50481,localport=12345]
+янв. 30, 2024 10:12:29 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 10:12:29 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 10:12:29 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 10:12:54 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51514,localport=12345]
+янв. 30, 2024 10:12:54 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 10:13:12 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51530,localport=12345]
+янв. 30, 2024 10:13:12 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 10:13:18 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: hi
+янв. 30, 2024 10:13:24 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: heelllo
+янв. 30, 2024 10:13:29 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: yeah, hi
+янв. 30, 2024 10:13:43 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 10:13:46 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e2c0c42e-3c6c-47da-9034-5de55e47c2aa
+янв. 30, 2024 10:13:54 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e2c0c42e-3c6c-47da-9034-5de55e47c2aa
+янв. 30, 2024 10:13:56 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51530,localport=12345]
+янв. 30, 2024 10:14:00 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51514,localport=12345]
+янв. 30, 2024 10:20:47 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 10:20:47 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 10:20:47 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 10:21:13 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51792,localport=12345]
+янв. 30, 2024 10:21:13 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 10:21:38 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51805,localport=12345]
+янв. 30, 2024 10:21:38 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 10:21:59 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 10:22:17 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51792,localport=12345]
+янв. 30, 2024 10:22:19 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51805,localport=12345]
+янв. 30, 2024 10:22:33 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51839,localport=12345]
+янв. 30, 2024 10:22:33 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 10:22:43 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=51848,localport=12345]
+янв. 30, 2024 10:22:43 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 4
+янв. 30, 2024 10:22:58 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 3: hi
+янв. 30, 2024 10:23:04 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 4: yeah, hi
+янв. 30, 2024 10:23:08 AM Server.GameImplementation pair_players
+INFO: Pairing players: 3 and 4
+янв. 30, 2024 10:23:10 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 5ee7870e-c423-48d9-8b24-945502db1887
+янв. 30, 2024 10:23:22 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 5ee7870e-c423-48d9-8b24-945502db1887
+янв. 30, 2024 10:23:23 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 5ee7870e-c423-48d9-8b24-945502db1887
+янв. 30, 2024 10:23:34 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51839,localport=12345]
+янв. 30, 2024 10:23:35 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=51848,localport=12345]
+янв. 30, 2024 10:29:31 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 10:29:31 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 10:29:31 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 10:30:04 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52067,localport=12345]
+янв. 30, 2024 10:30:04 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 10:30:47 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52093,localport=12345]
+янв. 30, 2024 10:30:47 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 10:31:02 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 10:31:15 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:18 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:19 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:25 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:29 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:32 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:33 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:35 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:31:36 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bfd64ac8-115c-40d7-a8bc-a58391771cbc
+янв. 30, 2024 10:32:06 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52067,localport=12345]
+янв. 30, 2024 10:32:22 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52146,localport=12345]
+янв. 30, 2024 10:32:22 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 10:32:33 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52155,localport=12345]
+янв. 30, 2024 10:32:33 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 4
+янв. 30, 2024 10:32:42 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52164,localport=12345]
+янв. 30, 2024 10:32:42 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 5
+янв. 30, 2024 10:33:22 AM Server.GameImplementation pair_players
+INFO: Pairing players: 4 and 2
+янв. 30, 2024 10:33:29 AM Server.GameImplementation pair_players
+INFO: Pairing players: 3 and 5
+янв. 30, 2024 10:33:36 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a07c2a98-681f-4324-8322-cb702dd2da4f
+янв. 30, 2024 10:33:47 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 928e64aa-8b72-488c-a9ad-03916b780bc0
+янв. 30, 2024 10:33:53 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 928e64aa-8b72-488c-a9ad-03916b780bc0
+янв. 30, 2024 10:34:11 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 928e64aa-8b72-488c-a9ad-03916b780bc0
+янв. 30, 2024 10:34:14 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52146,localport=12345]
+янв. 30, 2024 10:34:15 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52164,localport=12345]
+янв. 30, 2024 10:34:16 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52093,localport=12345]
+янв. 30, 2024 10:34:17 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52155,localport=12345]
+янв. 30, 2024 10:43:12 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 10:43:12 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 10:43:12 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 10:43:34 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52525,localport=12345]
+янв. 30, 2024 10:43:34 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 10:43:56 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=52540,localport=12345]
+янв. 30, 2024 10:43:56 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 10:44:10 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 10:44:14 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48af8ca1-0556-48bd-8dd9-909bea1e97d1
+янв. 30, 2024 10:44:18 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48af8ca1-0556-48bd-8dd9-909bea1e97d1
+янв. 30, 2024 10:44:19 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48af8ca1-0556-48bd-8dd9-909bea1e97d1
+янв. 30, 2024 10:45:10 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52540,localport=12345]
+янв. 30, 2024 10:45:11 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=52525,localport=12345]
+янв. 30, 2024 11:21:13 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:21:13 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:21:13 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 11:21:53 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53625,localport=12345]
+янв. 30, 2024 11:21:53 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 11:22:17 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=53641,localport=12345]
+янв. 30, 2024 11:22:17 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 11:22:25 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:22:30 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:32 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:34 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:36 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:38 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:44 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:45 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:46 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:46 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9f131446-cd11-4349-9e4c-e42b60299bf3
+янв. 30, 2024 11:22:56 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: pizda
+янв. 30, 2024 11:23:00 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53641,localport=12345]
+янв. 30, 2024 11:23:02 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=53625,localport=12345]
+янв. 30, 2024 11:37:53 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:37:53 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:37:53 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 11:38:22 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54182,localport=12345]
+янв. 30, 2024 11:38:22 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 11:38:39 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54194,localport=12345]
+янв. 30, 2024 11:38:39 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 11:38:46 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:38:50 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:38:52 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:38:54 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:38:54 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:38:55 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:38:59 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:39:01 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:39:02 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:39:03 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 48141131-0708-4aa4-98cf-40dce7e48011
+янв. 30, 2024 11:39:44 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: hi
+янв. 30, 2024 11:39:51 AM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: hiiiiii
+янв. 30, 2024 11:39:57 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:40:06 AM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 11:40:11 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54194,localport=12345]
+янв. 30, 2024 11:40:12 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54182,localport=12345]
+янв. 30, 2024 11:46:35 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:46:35 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:46:35 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 11:47:13 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54447,localport=12345]
+янв. 30, 2024 11:47:13 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 11:47:29 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54460,localport=12345]
+янв. 30, 2024 11:47:29 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 11:47:41 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:47:45 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 56c9215b-2324-4b3b-a063-e59c5582f5a4
+янв. 30, 2024 11:47:54 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 56c9215b-2324-4b3b-a063-e59c5582f5a4
+янв. 30, 2024 11:47:58 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 56c9215b-2324-4b3b-a063-e59c5582f5a4
+янв. 30, 2024 11:48:02 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 56c9215b-2324-4b3b-a063-e59c5582f5a4
+янв. 30, 2024 11:48:15 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:48:21 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session accba63c-668c-46d4-b30a-8a9969baa39a
+янв. 30, 2024 11:48:25 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54447,localport=12345]
+янв. 30, 2024 11:48:27 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54460,localport=12345]
+янв. 30, 2024 11:49:22 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:49:22 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:49:22 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 11:49:55 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54539,localport=12345]
+янв. 30, 2024 11:49:55 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 11:50:10 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54553,localport=12345]
+янв. 30, 2024 11:50:10 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 11:50:15 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:50:17 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:19 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:20 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:21 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:21 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:22 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:22 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:23 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:23 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 25613f7e-db2e-4037-ba2d-da8fb7abdb88
+янв. 30, 2024 11:50:48 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54539,localport=12345]
+янв. 30, 2024 11:50:49 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54553,localport=12345]
+янв. 30, 2024 11:57:30 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:57:31 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:57:31 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 11:57:59 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54771,localport=12345]
+янв. 30, 2024 11:57:59 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 11:58:11 AM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54784,localport=12345]
+янв. 30, 2024 11:58:11 AM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 11:58:20 AM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 11:58:24 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:31 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:33 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:33 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:34 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:34 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:35 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:35 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:35 AM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 9a4dd163-1fda-47de-8c41-639c9633de50
+янв. 30, 2024 11:58:56 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54784,localport=12345]
+янв. 30, 2024 11:58:58 AM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54771,localport=12345]
+янв. 30, 2024 11:59:59 AM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 11:59:59 AM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 11:59:59 AM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:00:25 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54844,localport=12345]
+янв. 30, 2024 12:00:25 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:00:40 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=54856,localport=12345]
+янв. 30, 2024 12:00:40 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:00:48 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:00:51 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:00:56 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:00:57 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:00:58 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:00:59 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:00:59 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:01:00 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:01:00 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:01:01 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 910fe45b-d471-44a4-a85c-bd2049ebf46f
+янв. 30, 2024 12:01:07 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: hiii
+янв. 30, 2024 12:01:12 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: ok
+янв. 30, 2024 12:01:24 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54856,localport=12345]
+янв. 30, 2024 12:01:25 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=54844,localport=12345]
+янв. 30, 2024 12:15:02 PM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:15:02 PM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:15:02 PM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:15:27 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55332,localport=12345]
+янв. 30, 2024 12:15:27 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:17:07 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55382,localport=12345]
+янв. 30, 2024 12:17:07 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:17:20 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:17:25 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:32 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:34 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:40 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:45 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:51 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:53 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:55 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:17:56 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session a42a2ec9-602f-4fcc-9c2d-c175fd028560
+янв. 30, 2024 12:18:04 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:18:18 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55382,localport=12345]
+янв. 30, 2024 12:18:19 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55332,localport=12345]
+янв. 30, 2024 12:32:02 PM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 12:32:02 PM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 12:32:02 PM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 12:32:34 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55859,localport=12345]
+янв. 30, 2024 12:32:34 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 12:33:00 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55874,localport=12345]
+янв. 30, 2024 12:33:00 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 12:33:11 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 12:33:15 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session f22222c3-9ac2-4c2f-9f60-17da6b248aae
+янв. 30, 2024 12:33:18 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session f22222c3-9ac2-4c2f-9f60-17da6b248aae
+янв. 30, 2024 12:33:21 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session f22222c3-9ac2-4c2f-9f60-17da6b248aae
+янв. 30, 2024 12:33:22 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session f22222c3-9ac2-4c2f-9f60-17da6b248aae
+янв. 30, 2024 12:33:41 PM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+янв. 30, 2024 12:33:51 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55859,localport=12345]
+янв. 30, 2024 12:33:52 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55874,localport=12345]
+янв. 30, 2024 12:34:00 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55911,localport=12345]
+янв. 30, 2024 12:34:00 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 12:34:06 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55918,localport=12345]
+янв. 30, 2024 12:34:06 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 4
+янв. 30, 2024 12:34:25 PM Server.GameImplementation pair_players
+INFO: Pairing players: 4 and 3
+янв. 30, 2024 12:34:30 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e5a252e1-6e93-4f09-9989-bfc21b956477
+янв. 30, 2024 12:34:33 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e5a252e1-6e93-4f09-9989-bfc21b956477
+янв. 30, 2024 12:34:34 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e5a252e1-6e93-4f09-9989-bfc21b956477
+янв. 30, 2024 12:34:35 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e5a252e1-6e93-4f09-9989-bfc21b956477
+янв. 30, 2024 12:34:37 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e5a252e1-6e93-4f09-9989-bfc21b956477
+янв. 30, 2024 12:34:50 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 4: bug fixes
+янв. 30, 2024 12:36:32 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=55995,localport=12345]
+янв. 30, 2024 12:36:32 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 5
+янв. 30, 2024 12:36:43 PM Server.GameImplementation pair_players
+INFO: Pairing players: 4 and 5
+янв. 30, 2024 12:36:45 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 0ffff1d9-46ec-4036-b2b7-700fc04d83f4
+янв. 30, 2024 12:36:46 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 0ffff1d9-46ec-4036-b2b7-700fc04d83f4
+янв. 30, 2024 12:36:47 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 0ffff1d9-46ec-4036-b2b7-700fc04d83f4
+янв. 30, 2024 12:36:47 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 0ffff1d9-46ec-4036-b2b7-700fc04d83f4
+янв. 30, 2024 12:36:56 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 5: gg
+янв. 30, 2024 12:37:04 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 3: )
+янв. 30, 2024 12:37:08 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55911,localport=12345]
+янв. 30, 2024 12:37:10 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55995,localport=12345]
+янв. 30, 2024 12:37:11 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=55918,localport=12345]
+янв. 30, 2024 12:40:15 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56129,localport=12345]
+янв. 30, 2024 12:40:15 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 6
+янв. 30, 2024 12:40:22 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=56143,localport=12345]
+янв. 30, 2024 12:40:22 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 7
+янв. 30, 2024 12:40:38 PM Server.GameImplementation pair_players
+INFO: Pairing players: 7 and 6
+янв. 30, 2024 12:40:51 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 982f352c-1c97-4ab6-ad81-dd332c8914a1
+янв. 30, 2024 12:40:56 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 982f352c-1c97-4ab6-ad81-dd332c8914a1
+янв. 30, 2024 12:40:57 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 982f352c-1c97-4ab6-ad81-dd332c8914a1
+янв. 30, 2024 12:41:01 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session 982f352c-1c97-4ab6-ad81-dd332c8914a1
+янв. 30, 2024 12:42:30 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 7: sosi jopu
+янв. 30, 2024 12:44:42 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56129,localport=12345]
+янв. 30, 2024 12:44:43 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=56143,localport=12345]
+янв. 30, 2024 2:14:21 PM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:14:21 PM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:14:21 PM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:14:48 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59010,localport=12345]
+янв. 30, 2024 2:14:48 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:15:27 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59034,localport=12345]
+янв. 30, 2024 2:15:27 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:17:06 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59085,localport=12345]
+янв. 30, 2024 2:17:06 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 2:17:20 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 3
+янв. 30, 2024 2:19:02 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session bf88f4ad-3977-4a2d-9e7f-abc6dc859be8
+янв. 30, 2024 2:25:06 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: hello
+янв. 30, 2024 2:25:15 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: hi
+янв. 30, 2024 2:25:22 PM Server.ChatServer$ClientHandler run
+INFO: Client disconnected: Socket[addr=/127.0.0.1,port=59085,localport=12345]
+янв. 30, 2024 2:25:45 PM Server.Server main
+INFO: RMI server is ready
+янв. 30, 2024 2:25:45 PM Server.Server main
+INFO: Chat Server is running on port 12345
+янв. 30, 2024 2:25:45 PM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+янв. 30, 2024 2:26:04 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59377,localport=12345]
+янв. 30, 2024 2:26:04 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+янв. 30, 2024 2:26:20 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59399,localport=12345]
+янв. 30, 2024 2:26:20 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+янв. 30, 2024 2:26:36 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=59410,localport=12345]
+янв. 30, 2024 2:26:36 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+янв. 30, 2024 2:26:49 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 2
+янв. 30, 2024 2:26:54 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: hello
+февр. 20, 2024 11:11:50 PM Server.Server main
+INFO: RMI server is ready
+февр. 20, 2024 11:11:51 PM Server.Server main
+INFO: Chat Server is running on port 12345
+февр. 20, 2024 11:11:51 PM Server.ChatServer start
+INFO: Chat server is running on port: 12345
+февр. 20, 2024 11:24:12 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=49338,localport=12345]
+февр. 20, 2024 11:24:12 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 1
+февр. 20, 2024 11:25:40 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=49372,localport=12345]
+февр. 20, 2024 11:25:40 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 2
+февр. 20, 2024 11:25:57 PM Server.GameImplementation pair_players
+INFO: Pairing players: 2 and 1
+февр. 20, 2024 11:26:53 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e8b01178-b480-43e7-b640-88126db39711
+февр. 20, 2024 11:27:08 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e8b01178-b480-43e7-b640-88126db39711
+февр. 20, 2024 11:27:09 PM Server.GameImplementation updateGameState
+INFO: Broadcasted game state for session e8b01178-b480-43e7-b640-88126db39711
+февр. 20, 2024 11:27:28 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 2: privetik
+февр. 20, 2024 11:27:35 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: poka
+февр. 20, 2024 11:27:40 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 1: davaj
+февр. 20, 2024 11:27:59 PM Server.ChatServer$ClientHandler run
+INFO: New client connected: Socket[addr=/127.0.0.1,port=49691,localport=12345]
+февр. 20, 2024 11:27:59 PM Server.GameImplementation registerClient
+INFO: Client registered with Player ID: 3
+февр. 20, 2024 11:28:24 PM Server.GameImplementation pair_players
+INFO: Pairing players: 1 and 3
+февр. 20, 2024 11:28:55 PM Server.GameImplementation pair_players
+INFO: Pairing players: 3 and 2
+февр. 20, 2024 11:29:01 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 3: poka
+февр. 20, 2024 11:29:08 PM Server.ChatServer$ClientHandler broadcast_message
+INFO: Broadcasting message: 3: ASDASDSA
